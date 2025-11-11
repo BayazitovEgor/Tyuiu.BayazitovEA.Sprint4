@@ -1,5 +1,5 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint4;
-namespace Tyuiu.BayazitovEA.Sprint4.V24.Lib
+namespace Tyuiu.BayazitovEA.Split4.Task0.V24.Lib
 {
     public class DataService : ISprint4Task0V24
     {
@@ -13,7 +13,7 @@ namespace Tyuiu.BayazitovEA.Sprint4.V24.Lib
                     product = product * array[i];
                 }
             }
-            return product;
+            return product; 
         }
     }
 }
