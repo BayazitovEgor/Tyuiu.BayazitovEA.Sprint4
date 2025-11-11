@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.BayazitovEA.Split4.Task0.V24.Test
+﻿namespace Tyuiu.BayazitovEA.Sprint4.Task0.V24.Task
 {
     [TestClass]
     public sealed class Test1

@@ -1,4 +1,5 @@
-﻿using Tyuiu.BayazitovEA.Split4.Task0.V24.Lib;
+﻿using Tyuiu.BayazitovEA.Sprint4.Task0.V24.Lib;
+
 internal class Program
 {
     private static void Main(string[] args)
