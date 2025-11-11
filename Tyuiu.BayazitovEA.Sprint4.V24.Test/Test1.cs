@@ -1,8 +1,7 @@
-﻿
-namespace Tyuiu.BayazitovEA.Split4.Task0.V24.Test
+﻿namespace Tyuiu.BayazitovEA.Sprint4.V24.Test
 {
     [TestClass]
-    public sealed class DataServiceTest
+    public sealed class Test1
     {
         [TestMethod]
         public void TestMethod1()
